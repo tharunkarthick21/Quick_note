@@ -1,0 +1,6 @@
+{
+  "name": "Quick Note",
+  "description": "A refined notes and list organizer featuring interactive tags, instant tag search, and customizable pinning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
